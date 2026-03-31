@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "Come Right out and Say It",
+  "base_artist": "Relient K",
+  "createdAt": "2026-03-31T05:34:35.978956Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Come Right Out And Say It",
+      "artist": "Relient K",
+      "has_synced": true,
+      "path": "select/01_Come_Right_Out_And_Say_It_Relient_K.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Do I Have To Come Right Out And Say It",
+      "artist": "Buffalo Springfield",
+      "has_synced": true,
+      "path": "select/02_Do_I_Have_To_Come_Right_Out_And_Say_It_Buffalo_Springfield.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Come Right out and Say It",
+      "artist": "Relient K",
+      "has_synced": false,
+      "path": "select/03_Come_Right_out_and_Say_It_Relient_K.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Do I Have to Come Right Out and Say It (mono)",
+      "artist": "Buffalo Springfield",
+      "has_synced": true,
+      "path": "select/04_Do_I_Have_to_Come_Right_Out_and_Say_It_(mono)_Buffalo_Springfield.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Do I Have to Come Right Out and Say It (stereo)",
+      "artist": "Buffalo Springfield",
+      "has_synced": false,
+      "path": "select/05_Do_I_Have_to_Come_Right_Out_and_Say_It_(stereo)_Buffalo_Springfield.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Come Right out and Say It",
+      "artist": "Relient K, Unknown",
+      "has_synced": true,
+      "path": "select/06_Come_Right_out_and_Say_It_Relient_K,_Unknown.lrc"
+    }
+  ]
+}
